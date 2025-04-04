@@ -1,0 +1,14 @@
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\bin\Debug\net8.0\Cafeteria2.exe
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\bin\Debug\net8.0\Cafeteria2.deps.json
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\bin\Debug\net8.0\Cafeteria2.runtimeconfig.json
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\bin\Debug\net8.0\Cafeteria2.dll
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\bin\Debug\net8.0\Cafeteria2.pdb
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\Cafeteria2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\Cafeteria2.AssemblyInfoInputs.cache
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\Cafeteria2.AssemblyInfo.cs
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\Cafeteria2.csproj.CoreCompileInputs.cache
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\Cafeteria2.dll
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\refint\Cafeteria2.dll
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\Cafeteria2.pdb
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\Cafeteria2.genruntimeconfig.cache
+C:\Users\MilicaĐisalo\source\repos\Cafeteria2\Cafeteria2\obj\Debug\net8.0\ref\Cafeteria2.dll

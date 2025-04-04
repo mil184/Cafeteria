@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|c:\\users\\milica\u0111isalo\\source\\repos\\cafeteria2\\cafeteria2\\manager\\coffeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|solutionrelative:cafeteria2\\manager\\coffeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|c:\\users\\milica\u0111isalo\\source\\repos\\cafeteria2\\cafeteria2\\manager\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|solutionrelative:cafeteria2\\manager\\ordermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|c:\\users\\milica\u0111isalo\\source\\repos\\cafeteria2\\cafeteria2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|solutionrelative:cafeteria2\\model\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|c:\\users\\milica\u0111isalo\\source\\repos\\cafeteria2\\cafeteria2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|solutionrelative:cafeteria2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|c:\\users\\milica\u0111isalo\\source\\repos\\cafeteria2\\cafeteria2\\model\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3E5D5-6AB0-43F7-BA27-2E65CE55CA9E}|Cafeteria2\\Cafeteria2.csproj|solutionrelative:cafeteria2\\model\\coffee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 288,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoffeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Manager\\CoffeeManager.cs",
+              "RelativeDocumentMoniker": "Cafeteria2\\Manager\\CoffeeManager.cs",
+              "ToolTip": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Manager\\CoffeeManager.cs",
+              "RelativeToolTip": "Cafeteria2\\Manager\\CoffeeManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:13:17.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Coffee.cs",
+              "DocumentMoniker": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Model\\Coffee.cs",
+              "RelativeDocumentMoniker": "Cafeteria2\\Model\\Coffee.cs",
+              "ToolTip": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Model\\Coffee.cs",
+              "RelativeToolTip": "Cafeteria2\\Model\\Coffee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:12:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Model\\Order.cs",
+              "RelativeDocumentMoniker": "Cafeteria2\\Model\\Order.cs",
+              "ToolTip": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Model\\Order.cs",
+              "RelativeToolTip": "Cafeteria2\\Model\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:11:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Program.cs",
+              "RelativeDocumentMoniker": "Cafeteria2\\Program.cs",
+              "ToolTip": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Program.cs",
+              "RelativeToolTip": "Cafeteria2\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:06:00.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderManager.cs",
+              "DocumentMoniker": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Manager\\OrderManager.cs",
+              "RelativeDocumentMoniker": "Cafeteria2\\Manager\\OrderManager.cs",
+              "ToolTip": "C:\\Users\\Milica\u0110isalo\\source\\repos\\Cafeteria2\\Cafeteria2\\Manager\\OrderManager.cs",
+              "RelativeToolTip": "Cafeteria2\\Manager\\OrderManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T09:00:58.025Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
